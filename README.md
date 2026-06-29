@@ -70,8 +70,7 @@ The generated JWT contains the following claims:
 
 Passwords are hashed before being stored in the database.
 
-> Note: This project uses SHA-256 hashing for demonstration purposes. In production applications, algorithms such as ASP.NET Core Identity PasswordHasher, PBKDF2, BCrypt, or Argon2 are recommended.
-
+> Note: This project uses SHA-256 hashing for demonstration purposes. 
 ## Project Purpose
 
-This project was created as a learning/demo project to practice implementing JWT authentication and authorization in ASP.NET Core Web API.
+This project was created as a demo project to represent implementing JWT authentication and authorization in ASP.NET Core 8 Web API.
