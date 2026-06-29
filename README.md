@@ -1,4 +1,4 @@
-# JWTAuth
+
 # JWT Authentication Sample API (.NET 8)
 
 A simple ASP.NET Core Web API project demonstrating JWT (JSON Web Token) authentication and authorization using role-based access control.
