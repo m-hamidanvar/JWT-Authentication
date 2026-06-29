@@ -1,0 +1,6 @@
+@Project.Api_HostAddress = http://localhost:5227
+
+GET {{Project.Api_HostAddress}}/HomeController
+Accept: application/json
+
+###
